@@ -1,0 +1,7 @@
+img {
+  width: 10rem;
+}
+.imagens {
+  display: flex;
+  gap: 20px;
+}
